@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "elg"
+      "value": "cdd3"
     },
     "platformManagementGroup": {
-      "value": "elg"
+      "value": "cdd3-mg-root"
     },
     "IdentityManagementGroup": {
-      "value": "elg"
+      "value": "cdd3-mg-root"
     },
     "managementManagementGroup": {
-      "value": "elg"
+      "value": "cdd3-mg-root"
     },
     "connectivityManagementGroup": {
-      "value": "elg"
+      "value": "cdd3-mg-root"
     },
     "LandingZoneManagementGroup": {
-      "value": "elg"
+      "value": "cdd3-mg-root"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -44,7 +44,7 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "rg-amba-monitoring-001"
+          "value": "cdd3-amba-monitoring-001"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
